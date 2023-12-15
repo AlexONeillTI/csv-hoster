@@ -1,4 +1,4 @@
 firstName,lastName,email,externalCustomerId,status,completionDate,sendInvite,ref1,ref2,ref3,ref4,ref5,ref6,ref7,ref8,ref9,ref10,address1,address2,city,state,zipCode,country,telephone,balance,balanceAdd
-John,Doe,johnd@test.com,,not-started,,n,,,,,,,,,,,,,,,,,,,
-Mary,Sue,marysue@test.com,,started,,n,,,,,,,,,,,,,,,,,,,
-Asha,Glatt,ashag@test.com,,completed,2020-06-02T00:00:34.653Z,n,,,,,,,,,,,,,,,,,,,
+John,Does,johndoes@test.com,,not-started,,n,,,,,,,,,,,,,,,,,,,
+Mary,Sues,marysues@test.com,,started,,n,,,,,,,,,,,,,,,,,,,
+Asha,Glatts,ashags@test.com,,completed,2020-06-02T00:00:34.653Z,n,,,,,,,,,,,,,,,,,,,
